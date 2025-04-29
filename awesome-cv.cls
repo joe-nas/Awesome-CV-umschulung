@@ -122,6 +122,7 @@
 %                Configuration for colors
 %-------------------------------------------------------------------------------
 % Gray-scale colors
+\definecolor{customteal}{HTML}{00B5AD}
 \definecolor{white}{HTML}{FFFFFF}
 \definecolor{black}{HTML}{000000}
 \definecolor{darkgray}{HTML}{333333}
