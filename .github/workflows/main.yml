@@ -12,3 +12,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         FILE_NAME: 'cv.tex'
+    - uses: olivierodo/awesome-cv-action@0.0.2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        FILE_NAME: 'coverletter.tex'
